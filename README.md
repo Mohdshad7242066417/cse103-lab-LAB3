@@ -1,5 +1,1 @@
-# My First Repository
-
-## Description
-CSE103 lab repository — LAB 3.
-Edited directly on GitHub.
+# my_first_repo
